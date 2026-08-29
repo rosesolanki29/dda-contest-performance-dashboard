@@ -218,13 +218,14 @@ This structure supports efficient filtering, aggregation, and performance analys
 
 ## Dashboard 1
 
-![Dashboard 1](Contest Executive Overview/dashboard-1.png)
+![DDA Contest Performance Dashboard](Dashboard/Contest Executive Overview.png)
+
 
 ---
 
 ## Dashboard 2
 
-![Dashboard 2](Performance Intelligence Dashboard/dashboard-2.png)
+![DDA Contest Performance Dashboard](Dashboard/Performance Intelligence Dashboard.png)
 
 ---
 
