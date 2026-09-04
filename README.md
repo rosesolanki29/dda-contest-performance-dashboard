@@ -214,21 +214,6 @@ This structure supports efficient filtering, aggregation, and performance analys
 
 ---
 
-# 📸 Dashboard Preview
-
-## Dashboard 1
-
-![DDA Contest Performance Dashboard](Dashboard/Contest Executive Overview.png)
-
-
----
-
-## Dashboard 2
-
-![DDA Contest Performance Dashboard](Dashboard/Performance Intelligence Dashboard.png)
-
----
-
 ## 📈 Key Insights
 
 The dashboard helps identify:
@@ -288,20 +273,6 @@ Based on the analysis, the following actions can support performance improvement
 * Dashboard Development
 * Business Intelligence
 * Analytical Thinking
-
----
-
-## 🖼️ Images
-
-The repository contains two Power BI dashboard screenshots:
-
-```text id="afwg99"
-images/
-├── Contest Executive Overview.png
-└── Performance Intelligence Dashboard.png
-```
-
-These screenshots provide a visual preview of the dashboards developed for this project.
 
 ---
 
