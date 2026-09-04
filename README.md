@@ -1,4 +1,4 @@
-# 📊 DDA Contest Performance Dashboard
+# 📊 Student Performance Analytics (DDA)
 
 An end-to-end **Data Analytics and Power BI project** designed to analyze student contest performance, rankings, accuracy, MCQ results, programming performance, and participation trends. The project transforms raw contest and leaderboard data into meaningful insights that support performance evaluation and data-driven decision-making.
 
@@ -6,7 +6,7 @@ An end-to-end **Data Analytics and Power BI project** designed to analyze studen
 
 ## 📌 Project Overview
 
-The **DDA Contest Performance Dashboard** is an interactive Business Intelligence solution developed using **Power BI and SQL**. The project analyzes student performance across different contests and provides a centralized view of rankings, accuracy, scores, programming performance, and participation trends.
+The **Student Performance Analytics (DDA)** is an interactive Business Intelligence solution developed using **Power BI and SQL**. The project analyzes student performance across different contests and provides a centralized view of rankings, accuracy, scores, programming performance, and participation trends.
 
 The dashboard helps transform complex leaderboard data into actionable insights through interactive visualizations, KPIs, and performance analysis.
 
